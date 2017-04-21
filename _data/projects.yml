@@ -9,9 +9,14 @@
 - project: Attention-Based Reader
   role: Deep Learning with NLP
   duration: 2016
-  description: Implemented an attentive reader to do a question-answering task.
+  description: Implemented an attention-based reader to do a question-answering task.
+
+- project: Is Justice Blind? And is it Deaf?
+  role: Machine Learning and Computational Statistics
+  duration: 2016
+  description: Determined if audio and image specific features can improve the accuracy of a Supreme Court outcome prediction model.
 
 - project: Hit Or Flop
   role: Business Analytics
   duration: 2015
-  description: Used pre-release data from iMDB website to determine the potential success of a movie.
+  description: Used pre-release data from iMDB website as features to determine the potential success of a movie.

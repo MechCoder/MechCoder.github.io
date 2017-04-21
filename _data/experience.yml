@@ -9,13 +9,13 @@
 - company: Scikit-learn
   position: Core-developer
   duration: 2014; Present
-  summary: Significant improvements to the linear models and clustering modules. Nowadays, I focus on code reviews and maintenance.
+  summary: Significant improvements to the linear-models and clustering modules. Nowadays, I focus on code reviews and maintenance.
 
 # Spark
 - company: Spark
   position: Contributor
   duration: 2015; 2016
-  summary: Improved MLlib's Python API by writing wrappers around the Scala algorithms. Also improved support for loading and saving models.
+  summary: Improved MLlib's Python API. In addition, improved support for loading and saving models.
 
 - company: SystemML
   position: Contributor
@@ -25,4 +25,4 @@
 - company: SymPy
   position: Contributor
   duration: 2013;
-  summary: Improved the symbolic differential equation solving capabilites.
+  summary: Improved SymPy's symbolic differential equation solving capabilites.
