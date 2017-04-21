@@ -15,28 +15,28 @@ resume_title:                   "Contact links"
 resume_contact_email:
   "mks542@nyu.edu"
 resume_header_contact_info: "mks542@nyu.edu"
-resume_header_intro: "<p>I am a Masters student at NYU.</p>"
 
+resume_header_intro: "<p>I am a Masters student at NYU majoring in Data Science and after graduation I will be joining Google Brain as a resident. I spend most of my time reading and writing open-source code and have contributed to a number of FOSS projects. Outside of work, I enjoy watching cricket, movies and am a certified armchair activist.</p>"
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
+# resume_section_skills:          true
+# resume_section_recognition:     true
 # resume_section_links:           true
 # resume_section_associations:    true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_github_url:            "https://github.com/MechCoder"
+  resume_twitter_url:           "http://twitter.com/MechCoderr"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
 # Design settings
