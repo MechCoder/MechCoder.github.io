@@ -1,8 +1,10 @@
 # Degree
-- degree: Masters in Data Science
+- degree: Masters
   uni: New York University
   year: 2015 &mdash; 2017
+  summary: Data Science
 
-- degree: Bachelors in Mechanical Engineering.
-  uni: Birla Institute of Technology and Science.
+- degree: Bachelors
+  uni: Birla Institute of Technology and Science
   year: 2011 &mdash; 2015
+  summary: Mechanical Engineering

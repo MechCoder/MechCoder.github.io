@@ -13,16 +13,16 @@
 
 # Spark
 - company: Spark
-  postion: Contributor
+  position: Contributor
   duration: 2015; 2016
   summary: Improved MLlib's Python API by writing wrappers around the Scala algorithms. Also improved support for loading and saving models.
 
 - company: SystemML
-  postion: Contributor
+  position: Contributor
   duration: 2016;
   summary: Wrote a Python API for SystemML to benefit non-DML users.
 
 - company: SymPy
-  postion: Contributor
+  position: Contributor
   duration: 2013;
   summary: Improved the symbolic differential equation solving capabilites.
