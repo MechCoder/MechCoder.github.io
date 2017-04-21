@@ -14,4 +14,4 @@
 - project: Hit Or Flop
   role: Business Analytics
   duration: 2015
-  description: Used pre-release data from the ImDB website to determine the potential success of a movie.
+  description: Used pre-release data from iMDB website to determine the potential success of a movie.
