@@ -1,50 +1,29 @@
-# Site settings
-title: "Manoj Kumar homepage"
-description: "About me."
+# general configuration
+url: http://mechcoder.github.io
+baseurl: ''
 
-# Build settings
+# compass configuration
+compass:
+  # an avatar or logo (optional)
+  logo: "/images/compass.png"
+  # author will appear under the avatar (optional)
+  author: "MechCoder"
+  # tagline will appear under the title (optional)
+  # tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  # if include_content is true, the contents of the content.html include will be
+  # added right above the generated item list, if present
+  include_content: true
+  # if include_analytics is true, the content of the analytics.html include will
+  # be added at the end of the <head> section. You can add your Google Analytics
+  # Tracking Code to that file.
+  include_analytics: false
+
+# exclude
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# Dependencies
 markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
+highlighter: rouge
 
-# Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Manoj Kumar"
-resume_title:                   "Contact links"
-resume_contact_email:
-  "mks542@nyu.edu"
-resume_header_contact_info: "mks542@nyu.edu"
-
-resume_header_intro: "<p>I'm from Chennai, a city in South India. After studying Mechanical Engineering as an undegrad,
-I am pursuing my masters degree in Data Science at New York University. After graduation, I will be joining Google Brain as a resident.
-I spend most of my time reading and writing open-source code and have contributed to a number of FOSS projects. Outside of work,
-I enjoy watching cricket, (Tamil) movies and am a certified armchair activist.</p>"
-# Decide which sections to use
-# comment out to hide
-resume_section_open_source_projects:      true
-resume_section_education:       true
-resume_section_projects:        true
-# resume_section_skills:          true
-# resume_section_recognition:     true
-# resume_section_links:           true
-# resume_section_associations:    true
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/MechCoder"
-  resume_twitter_url:           "http://twitter.com/MechCoderr"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
-resume_print_social_links:      true
-
-# Design settings
-resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
+# Permalinks
+permalink: pretty

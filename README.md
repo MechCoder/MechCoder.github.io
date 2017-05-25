@@ -1,3 +1,3 @@
-# Mechcoder.github.io
+# Documentation
 
-Source files for my website forked from https://github.com/jglovier/resume-template
+Source-code of my website using https://github.com/excentris/compass.
